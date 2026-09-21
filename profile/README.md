@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:006633,100:003366&height=120&section=header"/>
 
 <div align="center">
-  <img width="7%" src="assets/unb.png"/>
+  <img width="10%" src="assets/unb.png"/>
 </div>
 
 <div align="center">
@@ -32,6 +32,7 @@ Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia d
 - Monografia e Slides (Em Breve)
 - [TCC-PoC1-Random-Forest-com-Dados-Anonimizados](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC1-Random-Forest-com-Dados-Anonimizados)
 - TCC-PoC2-RAG-com-Identidade-Autossoberana (Em Breve)
+- TCC-PoC3-Chat-com-Mascaramento-de-PII (Em Breve)
 - TCC-PoCN (Em Breve)
 
 ## Conteúdos
