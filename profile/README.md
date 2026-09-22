@@ -30,6 +30,9 @@ Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia d
 ## Repositórios
 
 - Monografia e Slides (Em Breve)
+
+#### Provas de Conceito
+
 - [TCC-PoC1-Random-Forest-com-Dados-Anonimizados](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC1-Random-Forest-com-Dados-Anonimizados)
 - TCC-PoC2-RAG-com-Identidade-Autossoberana (Em Breve)
 - TCC-PoC3-Chat-com-Mascaramento-de-PII (Em Breve)
@@ -39,7 +42,7 @@ Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia d
 
 - Drive (Em Breve)
 - Vídeo da Apresentação TCC1 (Em Breve)
-- Vídeo da Apresentação TCC1 (Em Breve)
+- Vídeo da Apresentação TCC2 (Em Breve)
 
 ---
 
