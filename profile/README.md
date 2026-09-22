@@ -6,7 +6,9 @@
 
 <div align="center">
 
-<h2 align="center"><strong>Privacidade de Dados e Identidade Soberana em Sistemas de Inteligência Artificial</strong></h2>
+<h2 align="center"><strong>Privacidade de Dados e Identidade Soberana em Sistemas de Inteligência Artificial:</strong></h2>
+
+Um Estudo orientado à Legislação Brasileira
 
 </div>
 
