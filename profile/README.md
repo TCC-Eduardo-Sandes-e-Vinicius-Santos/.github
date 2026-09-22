@@ -16,8 +16,8 @@ Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia d
 
 | Aluno                             | Matrícula |
 | --------------------------------- | --------- |
-| Eduardo Matheus dos Santos Sandes | 221008024 |
-| Vinícius de Oliveira Santos       | 202017263 |
+| [Eduardo Matheus dos Santos Sandes](https://github.com/DiceRunner714) | 221008024 |
+| [Vinícius de Oliveira Santos](https://github.com/ViniciussdeOliveira)       | 202017263 |
 
 ## Resumo
 
