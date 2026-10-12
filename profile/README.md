@@ -14,7 +14,7 @@ Um Estudo orientado à Legislação Brasileira
 
 </br>
 
-Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia de Software** pela **Universidade de Brasília (UnB)** - Faculdade de Ciências e Tecnologias em Engenharia (**FCTE**). Este trabalho foi orientado pela Dra. Milene Serrano e Coorientado pelo Dr. Maurício Serrano.
+Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia de Software** pela **Universidade de Brasília (UnB)** - Faculdade de Ciências e Tecnologias em Engenharia (**FCTE**). Este trabalho foi orientado pela **Dra. Milene Serrano** e Coorientado pelo **Dr. Maurício Serrano**.
 
 | Aluno                             | Matrícula |
 | --------------------------------- | --------- |
@@ -36,15 +36,16 @@ Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia d
 #### Provas de Conceito
 
 - [TCC-PoC1-Random-Forest-com-Dados-Anonimizados](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC1-Random-Forest-com-Dados-Anonimizados)
-- TCC-PoC2-RAG-com-Identidade-Autossoberana (Em Breve)
-- TCC-PoC3-Chat-com-Mascaramento-de-PII (Em Breve)
+- TCC-PoC2-RAG-com-Identidade-Autossoberana (Diponível Em Breve)
+- TCC-PoC3-Chat-com-Mascaramento-de-PII (Diponível Em Breve)
+- TCC-PoC4-Carteira-SSI-com-Agente-Financeiro (Em Desenvolvimento)
 - TCC-PoCN (Em Breve)
 
 ## Conteúdos
 
-- Drive (Em Breve)
-- Vídeo da Apresentação TCC1 (Em Breve)
-- Vídeo da Apresentação TCC2 (Em Breve)
+- Drive (Diponível Em Breve)
+- Vídeo da Apresentação TCC1 (Diponível Em Breve)
+- Vídeo da Apresentação TCC2 (Apresentação Em Dezembro)
 
 ---
 
