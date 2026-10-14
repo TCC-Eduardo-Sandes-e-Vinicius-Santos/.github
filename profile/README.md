@@ -14,12 +14,17 @@ Um Estudo orientado à Legislação Brasileira
 
 </br>
 
-Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia de Software** pela **Universidade de Brasília (UnB)** - Faculdade de Ciências e Tecnologias em Engenharia (**FCTE**). Este trabalho foi orientado pela **Dra. Milene Serrano** e Coorientado pelo **Dr. Maurício Serrano**.
+Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia de Software** pela **Universidade de Brasília (UnB)** - Faculdade de Ciências e Tecnologias em Engenharia (**FCTE**). Para acesso aos repositórios de código ou a qualquer recurso privado, favor contatar os autores. 
 
-| Aluno                             | Matrícula |
-| --------------------------------- | --------- |
-| [Eduardo Matheus dos Santos Sandes](https://github.com/DiceRunner714) | 221008024 |
+|                                   Aluno                                     | Matrícula |
+| --------------------------------------------------------------------------- | --------- |
+| [Eduardo Matheus dos Santos Sandes](https://github.com/DiceRunner714)       | 221008024 |
 | [Vinícius de Oliveira Santos](https://github.com/ViniciussdeOliveira)       | 202017263 |
+
+| Orientadora e Coorientador                                                                        |
+| ------------------------------------------------------------------------------------------------- |
+| [Profª. Dra. Milene Serrano](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1984257)  |
+| [Profº. Dr. Maurício Serrano](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1984262) |
 
 ## Resumo
 
