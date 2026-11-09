@@ -41,10 +41,9 @@ Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia d
 #### Provas de Conceito
 
 - [TCC-PoC1-Random-Forest-com-Dados-Anonimizados](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC1-Random-Forest-com-Dados-Anonimizados)
-- TCC-PoC2-RAG-com-Identidade-Autossoberana (Diponível Em Breve)
-- TCC-PoC3-Chat-com-Mascaramento-de-PII (Diponível Em Breve)
-- TCC-PoC4-Carteira-SSI-com-Agente-Financeiro (Em Desenvolvimento)
-- TCC-PoCN (Em Breve)
+- [TCC-PoC2-RAG-com-Identidade-Autossoberana](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC2-RAG-com-Identidade-Autossoberana) (Diponível Em Breve)
+- [TCC-PoC3-Chat-com-Mascaramento-de-PII](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC3-Chat-com-Mascaramento-de-PII) (Diponível Em Breve)
+- [TCC-PoC4-Carteira-SSI-com-Agente-Financeiro](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC4-Carteira-SSI-com-Agente-Financeiro) (Diponível Em Breve)
 
 ## Conteúdos
 
