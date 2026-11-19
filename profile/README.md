@@ -12,6 +12,10 @@ Um Estudo orientado à Legislação Brasileira
 
 </div>
 
+<!-- <p align="center">
+  <img src="./assets/banner.svg" width="40% alt="Banner" />
+</p> -->
+
 </br>
 
 Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia de Software** pela **Universidade de Brasília (UnB)** - Faculdade de Ciências e Tecnologias em Engenharia (**FCTE**). Para acesso aos repositórios de código ou a qualquer recurso privado, favor contatar os autores. 
