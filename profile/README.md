@@ -18,7 +18,7 @@ Um Estudo orientado à Legislação Brasileira
 
 </br>
 
-Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia de Software** pela **Universidade de Brasília (UnB)** - Faculdade de Ciências e Tecnologias em Engenharia (**FCTE**). Para acesso aos repositórios de código ou a qualquer recurso privado, favor contatar os autores. 
+Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia de Software** pela **Universidade de Brasília (UnB)** - Faculdade de Ciências e Tecnologias em Engenharia (**FCTE**). Para acesso a qualquer recurso privado, favor contatar os autores. 
 
 |                                   Aluno                                     | Matrícula |
 | --------------------------------------------------------------------------- | --------- |
@@ -53,9 +53,9 @@ Organização oficial do Trabalho de Conclusão de Curso (TCC) em **Engenharia d
 #### Provas de Conceito
 
 - [TCC-PoC1-Random-Forest-com-Dados-Anonimizados](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC1-Random-Forest-com-Dados-Anonimizados)
-- [TCC-PoC2-RAG-com-Identidade-Autossoberana](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC2-RAG-com-Identidade-Autossoberana) (Diponível Em Breve)
-- [TCC-PoC3-Chat-com-Mascaramento-de-PII](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC3-Chat-com-Mascaramento-de-PII) (Diponível Em Breve)
-- [TCC-PoC4-Carteira-SSI-com-Agente-Financeiro](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC4-Carteira-SSI-com-Agente-Financeiro) (Diponível Em Breve)
+- [TCC-PoC2-RAG-com-Identidade-Autossoberana](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC2-RAG-com-Identidade-Autossoberana)
+- [TCC-PoC3-Chat-com-Mascaramento-de-PII](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC3-Chat-com-Mascaramento-de-PII)
+- [TCC-PoC4-Carteira-SSI-com-Agente-Financeiro](https://github.com/TCC-Eduardo-Sandes-e-Vinicius-Santos/TCC-PoC4-Carteira-SSI-com-Agente-Financeiro)
 
 ## Conteúdos
 
